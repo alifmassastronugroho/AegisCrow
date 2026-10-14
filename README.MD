@@ -46,9 +46,8 @@ User → IBM Bob (MCP Client) → MCP Protocol → Langflow (Multi-Agent) → Ex
 - `expected-outputs/` - Output yang diharapkan dari sistem
 
 ## Tim
-- Nama: [Nama Anda]
-- Email: [Email Anda]
-- Sertifikat IBM SkillsBuild: [Link atau attachment]
+- Nama: Alif Mas Sastro Nugroho
+- Email: alifmassastronugroho@gmail.com
 
 ## Responsible AI
 - Human-in-the-loop: User harus konfirmasi "YA" sebelum email dikirim
